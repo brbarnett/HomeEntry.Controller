@@ -1,0 +1,17 @@
+{
+  "name": "controller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "pi-gpio": "0.0.8",
+    "serialport": "^2.1.0",
+    "socket.io-client": "^1.4.5",
+    "wiring-pi": "^2.1.1"
+  }
+}
